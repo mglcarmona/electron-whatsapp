@@ -1,0 +1,4 @@
+electron-whatsapp-darwin-x64
+node_modules
+*.log
+DS_store
